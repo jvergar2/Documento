@@ -1,0 +1,11 @@
+#Estos son los archivos que voy a ignorar en este proyecto
+#
+*.aux
+*.dvi
+*.lof
+*.log
+*.out.ps
+*.synctex.gz
+*.toc
+*.log
+references.bib

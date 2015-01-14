@@ -1,0 +1,296 @@
+\begin{thebibliography}{47}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[AFPS(1995)]{AFPS1995}
+AFPS, 1995.
+\newblock The 1995 french seismic code, {\it Guidelines for Seismic
+  Microzonation Studies, October\/}.
+
+\bibitem[Aki(1993)]{Aki1993}
+Aki, K., 1993.
+\newblock Local site effects on weak and strong ground motion, {\it
+  Tectonophysics\/}, {\bf 218}(1 - 3), 93--111, New horizons in strong motion:
+  Seismic studies and engineering practice.
+
+\bibitem[Ashford et~al.(1997)Ashford, Sitar, Lysmer, \& Deng]{Ashford1997}
+Ashford, S.~A., Sitar, N., Lysmer, J., \& Deng, N., 1997.
+\newblock Topographic effects on the seismic response of steep slopes, {\it
+  Bulletin of the Seismological Society of America\/}, {\bf 87}(3), 701--709.
+
+\bibitem[Assimaki \& Jeong(2013)]{Assimaki2013}
+Assimaki, D. \& Jeong, S., 2013.
+\newblock Ground--motion observations at hotel montana during the m 7.0 2010
+  haiti earthquake: Topography or soil amplification?, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 103}(5), 2577--2590.
+
+\bibitem[Assimaki et~al.(2005{\natexlab{a}})Assimaki, Gazetas, \&
+  Kausel]{assimaki2005effects}
+Assimaki, D., Gazetas, G., \& Kausel, E., 2005{\natexlab{a}}.
+\newblock Effects of local soil conditions on the topographic aggravation of
+  seismic motion: parametric investigation and recorded field evidence from the
+  1999 athens earthquake, {\it Bulletin of the Seismological Society of
+  America\/}, {\bf 95}(3), 1059--1089.
+
+\bibitem[Assimaki et~al.(2005{\natexlab{b}})Assimaki, Kausel, \&
+  Gazetas]{assimaki2005soil}
+Assimaki, D., Kausel, E., \& Gazetas, G., 2005{\natexlab{b}}.
+\newblock Soil-dependent topographic effects: a case study from the 1999 athens
+  earthquake, {\it Earthquake Spectra\/}, {\bf 21}(4), 929--966.
+
+\bibitem[Barani et~al.(2014)Barani, Massa, Lovati, \& Spallarossa]{Barani2014}
+Barani, S., Massa, M., Lovati, S., \& Spallarossa, D., 2014.
+\newblock Effects of surface topography on ground shaking prediction:
+  implications for seismic hazard analysis and recommendations for seismic
+  design, {\it Geophysical Journal International\/}.
+
+\bibitem[Bielak et~al.(2003)Bielak, Loukakis, Hisada, \& Yoshimura]{bielak2003}
+Bielak, J., Loukakis, K., Hisada, Y., \& Yoshimura, C., 2003.
+\newblock {D}omain {R}eduction {M}ethod for {T}hree-{D}imensional {E}arthquake
+  {M}odeling in {L}ocalized {R}egions, {P}art {I}: {T}heory, {\it Bulletin of
+  the Seismological Society of America\/}, {\bf 93}, 817--824.
+
+\bibitem[Bielak et~al.(2005)Bielak, Ghattas, \& Kim]{Bielak2005}
+Bielak, J., Ghattas, O., \& Kim, E.~J., 2005.
+\newblock {Parallel octree-based finite element method for large-scale
+  earthquake ground motion simulation}, {\it Computer Modeling in Engineering
+  and sciences\/}, {\bf 10}(2), 99--112.
+
+\bibitem[Buech et~al.(2010)Buech, Davies, \& Pettinga]{Buech2010}
+Buech, F., Davies, T., \& Pettinga, J., 2010.
+\newblock The little red hill seismic experimental study: topographic effects
+  on ground motion at a bedrock-dominated mountain edifice, {\it Bulletin of
+  the Seismological Society of America\/}, {\bf 100}(5A), 2219--2229.
+
+\bibitem[Celebi(1987)]{celebi1987topographical}
+Celebi, M., 1987.
+\newblock Topographical and geological amplifications determined from
+  strong-motion and aftershock records of the 3 march 1985 chile earthquake,
+  {\it Bulletin of the Seismological Society of America\/}, {\bf 77}(4),
+  1147--1167.
+
+\bibitem[Chang et~al.(2013)Chang, Tsaur, \& Wang]{Chang2013}
+Chang, K.-H., Tsaur, D.-H., \& Wang, J.-H., 2013.
+\newblock Scattering of sh waves by a circular sectorial canyon, {\it
+  Geophysical Journal International\/}, {\bf 195}(1), 532--543.
+
+\bibitem[Davis \& West(1973)]{Davis1973}
+Davis, L.~L. \& West, L.~R., 1973.
+\newblock Observed effects of topography on ground motion, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 63}(1), 283--298.
+
+\bibitem[EuroCode8(2000)]{EC8}
+EuroCode8, 2000.
+\newblock {\it European Committee for Standarization, EuroCode 8\/}, (EC8)
+  Design Provisions for Earthquake Resistance of Structures, Part 1-1: General
+  Rules-Seismic Actions and General Requirements for Structures, prEN,
+  Brussels.
+
+\bibitem[Gao et~al.(2012)Gao, Zhang, Li, Liu, Cai, \& Wu]{Gao2012}
+Gao, Y., Zhang, N., Li, D., Liu, H., Cai, Y., \& Wu, Y., 2012.
+\newblock Effects of topographic amplification induced by a u-shaped canyon on
+  seismic waves, {\it Bulletin of the Seismological Society of America\/}, {\bf
+  102}(4), 1748--1763.
+
+\bibitem[Geli et~al.(1988)Geli, Bard, \& Jullien]{Geli1988}
+Geli, L., Bard, P.-Y., \& Jullien, B., 1988.
+\newblock The effect of topography on earthquake ground motion: A review and
+  new results, {\it Bulletin of the Seismological Society of America\/}, {\bf
+  78}(1), 42--63.
+
+\bibitem[Gomez et~al.(2013)Gomez, Restrepo, Jaramillo, \& Valencia]{Gomez2013}
+Gomez, J., Restrepo, D., Jaramillo, J., \& Valencia, C., 2013.
+\newblock Analysis of the role of diffraction in topographic site effects using
+  boundary element techniques, {\it Earthquake Science\/}, {\bf 26}(5),
+  341--350.
+
+\bibitem[{Graves} et~al.(2011){Graves}, {Jordan}, {Callaghan}, {Deelman},
+  {Field}, {Juve}, {Kesselman}, {Maechling}, {Mehta}, {Milner}, {Okaya},
+  {Small}, \& {Vahi}]{Graves2011}
+{Graves}, R., {Jordan}, T.~H., {Callaghan}, S., {Deelman}, E., {Field}, E.,
+  {Juve}, G., {Kesselman}, C., {Maechling}, P., {Mehta}, G., {Milner}, K.,
+  {Okaya}, D., {Small}, P., \& {Vahi}, K., 2011.
+\newblock {CyberShake: A Physics-Based Seismic Hazard Model for Southern
+  California}, {\it Pure and Applied Geophysics\/}, {\bf 168}, 367--381.
+
+\bibitem[Griffiths \& Bollinger(1979)]{Griffiths1979}
+Griffiths, D.~W. \& Bollinger, G.~A., 1979.
+\newblock The effect of appalachian mountain topography on seismic waves, {\it
+  Bulletin of the Seismological Society of America\/}, {\bf 69}(4), 1081--1105.
+
+\bibitem[Han et~al.(2011)Han, Wang, \& Kang]{Han2011}
+Han, F., Wang, G.-z., \& Kang, C.-y., 2011.
+\newblock Scattering of sh-waves on triangular hill joined by semi-cylindrical
+  canyon, {\it Applied Mathematics and Mechanics\/}, {\bf 32}(3), 309--326.
+
+\bibitem[Hartzell et~al.(2013)Hartzell, Meremonte, Ram{\'i}rez-Guzm{\'a}n, \&
+  McNamara]{Hartzell2013}
+Hartzell, S., Meremonte, M., Ram{\'i}rez-Guzm{\'a}n, L., \& McNamara, D., 2013.
+\newblock Ground motion in the presence of complex topography: Earthquake and
+  ambient noise sources, {\it Bulletin of the Seismological Society of
+  America\/}.
+
+\bibitem[Hough et~al.(2011)Hough, Altidor, Anglade, Given, Janvier, Maharrey,
+  Meremonte, Mildor, Prepetit, \& Yong]{Hough2011}
+Hough, S.~E., Altidor, J.~R., Anglade, D., Given, D., Janvier, M.~G., Maharrey,
+  J.~Z., Meremonte, M., Mildor, B. S.-L., Prepetit, C., \& Yong, A., 2011.
+\newblock Localized damage caused by topographic amplification during the 2010
+  {M}7.0 haiti earthquake, {\it Nature Geoscience\/}, {\bf 3}(11), 778--782.
+
+\bibitem[Idriss \& Sun(1992)]{Idriss1992user}
+Idriss, I. \& Sun, J.~I., 1992.
+\newblock {\it User's manual for SHAKE91: a computer program for conducting
+  equivalent linear seismic response analyses of horizontally layered soil
+  deposits\/}, Center for Geotechnical modeling Department of Civil \&
+  Environmental Engineering, University of California.
+
+\bibitem[Jaramillo et~al.(2013)Jaramillo, Gomez, Saenz, \&
+  Vergara]{Jaramillo2013}
+Jaramillo, J., Gomez, J., Saenz, M., \& Vergara, J., 2013.
+\newblock Analytic approximation to the scattering of antiplane shear waves by
+  free surfaces of arbitrary shape via superposition of incident, reflected and
+  diffracted rays, {\it Geophysical Journal International\/}, {\bf 192}(3),
+  1132--1143.
+
+\bibitem[Kaklamanos et~al.(2015)Kaklamanos, Dorfmann, \& Baise]{Kaklamanos2015}
+Kaklamanos, J., Dorfmann, L., \& Baise, L., 2015.
+\newblock A simple approach to site response modeling: the overlay concept,
+  {\it Seismological Research Letters\/}, p.~3.
+
+\bibitem[Kawase \& Aki(1990)]{kawase1990topography}
+Kawase, H. \& Aki, K., 1990.
+\newblock Topography effect at the critical sv-wave incidence: possible
+  explanation of damage pattern by the whittier narrows, california, earthquake
+  of 1 october 1987, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 80}(1), 1--22.
+
+\bibitem[Kouyoumjian \& Pathak(1974)]{Pathak1974}
+Kouyoumjian, R. \& Pathak, P., 1974.
+\newblock A uniform geometrical theory of diffraction for an edge in a
+  perfectly conducting surface, {\it Proceedings of the IEEE\/}, {\bf 62}(11),
+  1448--1461.
+
+\bibitem[Lee et~al.(2009{\natexlab{a}})Lee, Chan, Komatitsch, Huang, \&
+  Tromp]{Lee2009b}
+Lee, S.-J., Chan, Y.-C., Komatitsch, D., Huang, B.-S., \& Tromp, J.,
+  2009{\natexlab{a}}.
+\newblock Effects of realistic surface topography on seismic ground motion in
+  the yangminshan region of taiwan based upon the spectral-element method and
+  lidar dtm, {\it Bulletin of the Seismological Society of America\/}, {\bf
+  99}(2A), 681--693.
+
+\bibitem[Lee et~al.(2009{\natexlab{b}})Lee, Komatitsch, Huang, \&
+  Tromp]{Lee2009a}
+Lee, S.-J., Komatitsch, D., Huang, B.-S., \& Tromp, J., 2009{\natexlab{b}}.
+\newblock Effects of topography on seismic-wave propagation: An example from
+  northern taiwan, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 99}(1), 314--325.
+
+\bibitem[Ma et~al.(2007)Ma, Archuleta, \& Page]{Ma2007}
+Ma, S., Archuleta, R.~J., \& Page, M.~T., 2007.
+\newblock Effects of large-scale surface topography on ground motions, as
+  demonstrated by a study of the san gabriel mountains, los angeles,
+  california, {\it Bulletin of the Seismological Society of America\/}, {\bf
+  97}(6), 2066--2079.
+
+\bibitem[NSR-10(2010)]{NSR-10}
+NSR-10, 2010.
+\newblock {\it Reglamento Colombiano de Diseño y Construcción
+  Sismo-resistente, NSR-10\/}, Asociación Colombiana de Ingeniería Sísmica,
+  AIS.
+
+\bibitem[Restrepo \& Bielak(2014)]{Doriam2014}
+Restrepo, D. \& Bielak, J., 2014.
+\newblock Virtual topography: A fictitious domain approach for analyzing
+  free-surface irregularities in large-scale earthquake ground motion
+  simulation, {\it International Journal for Numerical Methods in
+  Engineering\/}, {\bf 100}(7), 504--533.
+
+\bibitem[Rogers et~al.(1974)Rogers, Katz, \& Bennett]{Rogers1974}
+Rogers, A.~M., Katz, L.~J., \& Bennett, T.~J., 1974.
+\newblock Topographic effects on ground motion for incident p waves: A model
+  study, {\it Bulletin of the Seismological Society of America\/}, {\bf 64}(2),
+  437--456.
+
+\bibitem[S{\'a}nchez-Sesma(1985)]{SanchezSesma1985}
+S{\'a}nchez-Sesma, F.~J., 1985.
+\newblock Diffraction of elastic sh waves by wedges, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 75}(5), 1435--1446.
+
+\bibitem[S{\'a}nchez-Sesma(1990)]{SanchezSesma1990}
+S{\'a}nchez-Sesma, F.~J., 1990.
+\newblock Elementary solutions for response of a wedge-shaped medium to
+  incident sh and sv waves, {\it Bulletin of the Seismological Society of
+  America\/}, {\bf 80}(3), 737--742.
+
+\bibitem[S{\'a}nchez-Silva et~al.(2000)S{\'a}nchez-Silva, Yamin, \&
+  Caicedo]{SanchezSilva2000}
+S{\'a}nchez-Silva, M., Yamin, L.~E., \& Caicedo, B., 2000.
+\newblock Lessons of the 25 january 1999 earthquake in central colombia, {\it
+  Earthquake Engineering Research Institute\/}, {\bf 16}(2), 493--510.
+
+\bibitem[Schnabel et~al.(1972)Schnabel, Lysmer, \& Seed]{Schnabel1972shake}
+Schnabel, P., Lysmer, J., \& Seed, H., 1972.
+\newblock Shake--a computer program for response analysis of horizontally
+  layered sites, report no. eerc 72-12, {\it Univ. of California at
+  Berkeley\/}.
+
+\bibitem[Spudich et~al.(1996)Spudich, Hellweg, \& Lee]{spudich1996directional}
+Spudich, P., Hellweg, M., \& Lee, W., 1996.
+\newblock Directional topographic site response at tarzana observed in
+  aftershocks of the 1994 northridge, california, earthquake: implications for
+  mainshock motions, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 86}(1B), S193--S208.
+
+\bibitem[Trifunac(1972)]{Trifunac1973}
+Trifunac, M.~D., 1972.
+\newblock Scattering of plane sh waves by a semi-cylindrical canyon, {\it
+  Earthquake Engineering and Structural Dynamics\/}, {\bf 1}(3), 267--281.
+
+\bibitem[Trifunac \& Hudson(1971)]{trifunac1971analysis}
+Trifunac, M.~D. \& Hudson, D.~E., 1971.
+\newblock Analysis of the pacoima dam accelerogram—san fernando, california,
+  earthquake of 1971, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 61}(5), 1393--1411.
+
+\bibitem[Tsaur(2010)]{Tsaur2010a}
+Tsaur, D.-H., 2010.
+\newblock Exact scattering and diffraction of antiplane shear waves by a
+  vertical edge crack, {\it Geophysical Journal International\/}, {\bf 181}(3),
+  1655--1664.
+
+\bibitem[Tsaur \& Chang(2008)]{Tsaur2008}
+Tsaur, D.-H. \& Chang, K.-H., 2008.
+\newblock An analytical approach for the scattering of sh waves by a
+  symmetrical v-shaped canyon: Shallow case, {\it Geophysical Journal
+  International\/}, {\bf 174}(1), 255--264.
+
+\bibitem[Tsaur \& Hsu(2013)]{Tsaur2013}
+Tsaur, D.-H. \& Hsu, M.-S., 2013.
+\newblock Sh waves scattering from a partially filled semi-elliptic alluvial
+  valley, {\it Geophysical Journal International\/}, {\bf 194}(1), 499--511.
+
+\bibitem[Tsaur et~al.(2010)Tsaur, Chang, \& Hsu]{Tsaur2010b}
+Tsaur, D.-H., Chang, K.-H., \& Hsu, M.-S., 2010.
+\newblock An analytical approach for the scattering of sh waves by a
+  symmetrical v-shaped canyon: deep case, {\it Geophysical Journal
+  International\/}, {\bf 183}(3), 1501--1511.
+
+\bibitem[Tucker et~al.(1984)Tucker, King, Hatzfeld, \& Nersesov]{Tucker1984}
+Tucker, B.~E., King, J.~L., Hatzfeld, D., \& Nersesov, I.~L., 1984.
+\newblock Observations of hard-rock site effects, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 74}(1), 121--136.
+
+\bibitem[Zhang et~al.(2012{\natexlab{a}})Zhang, Gao, Cai, Li, \&
+  Wu]{Zhang2012a}
+Zhang, N., Gao, Y., Cai, Y., Li, D., \& Wu, Y., 2012{\natexlab{a}}.
+\newblock Scattering of sh waves induced by a non-symmetrical v-shaped canyon,
+  {\it Geophysical Journal International\/}, {\bf 191}(1), 243--256.
+
+\bibitem[Zhang et~al.(2012{\natexlab{b}})Zhang, Gao, Li, Wu, \&
+  Zhang]{Zhang2012b}
+Zhang, N., Gao, Y., Li, D., Wu, Y., \& Zhang, F., 2012{\natexlab{b}}.
+\newblock Scattering of sh waves induced by a symmetrical v-shaped canyon: a
+  unified analytical solution, {\it Earthquake Engineering and Engineering
+  Vibration\/}, {\bf 11}(4), 445--460.
+
+\end{thebibliography}
