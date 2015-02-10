@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Proposal.aux
 The style file: gji.bst
 Database file #1: refproposal.bib
-You've used 51 entries,
+You've used 54 entries,
             2773 wiz_defined-function locations,
-            1331 strings with 18636 characters,
-and the built_in function-call counts, 24547 in all, are:
-= -- 2030
-> -- 1629
-< -- 21
-+ -- 552
-- -- 498
-* -- 2790
-:= -- 3925
-add.period$ -- 102
-call.type$ -- 51
-change.case$ -- 316
-chr.to.int$ -- 48
-cite$ -- 153
-duplicate$ -- 906
-empty$ -- 1650
-format.name$ -- 569
-if$ -- 4749
+            1352 strings with 19309 characters,
+and the built_in function-call counts, 25312 in all, are:
+= -- 2098
+> -- 1618
+< -- 26
++ -- 550
+- -- 493
+* -- 2848
+:= -- 4049
+add.period$ -- 108
+call.type$ -- 54
+change.case$ -- 322
+chr.to.int$ -- 51
+cite$ -- 162
+duplicate$ -- 953
+empty$ -- 1742
+format.name$ -- 571
+if$ -- 4907
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 54
-newline$ -- 208
-num.names$ -- 204
-pop$ -- 377
+missing$ -- 58
+newline$ -- 220
+num.names$ -- 218
+pop$ -- 380
 preamble$ -- 1
-purify$ -- 268
+purify$ -- 272
 quote$ -- 0
-skip$ -- 706
+skip$ -- 737
 stack$ -- 0
-substring$ -- 1202
-swap$ -- 258
+substring$ -- 1255
+swap$ -- 268
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 450
+type$ -- 474
 warning$ -- 0
-while$ -- 213
+while$ -- 224
 width$ -- 0
-write$ -- 610
+write$ -- 646
